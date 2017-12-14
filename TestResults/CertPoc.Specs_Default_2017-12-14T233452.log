@@ -1,0 +1,31 @@
+﻿2017-12-14T23:30:59.7503913+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-14T23:30:59.8541668+02:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-14T23:30:59.8546683+02:00;VSTestExecutionThread;Info;SpecRun: running tests in c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll
+2017-12-14T23:30:59.8551693+02:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-14T23:31:05.9345593+02:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-14T23:31:05.9355642+02:00;VSTestExecutionThread;Info;Discovering tests from assembly: c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll
+2017-12-14T23:31:07.0480191+02:00;VSTestExecutionThread;Info;Log file: file:///c:\users\joseph\documents\visual%20studio%202015\Projects\Poc\CertPoc.Specs\TestResults\CertPoc.Specs_Default_2017-12-14T233059.log
+2017-12-14T23:31:07.0490229+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-14T23:34:52.5328356+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-14T23:34:52.5418526+02:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-14T23:34:52.5423536+02:00;VSTestExecutionThread;Info;SpecRun: running tests in c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll
+2017-12-14T23:34:52.5428547+02:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-14T23:34:59.5457438+02:00;Thread#18;Info;Discovering target: Default
+2017-12-14T23:34:59.5462134+02:00;Thread#18;Info;Discovering tests from assembly: c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll
+Appdomain Disposed
+Test Suite Dump
+#0: CertPoc.Specs/Default - 
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 0
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0

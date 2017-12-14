@@ -1,0 +1,5 @@
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertificateIntegration\bin\Debug\CertificateIntegration.dll
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertificateIntegration\bin\Debug\CertificateIntegration.pdb
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertificateIntegration\obj\Debug\CertificateIntegration.csprojResolveAssemblyReference.cache
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertificateIntegration\obj\Debug\CertificateIntegration.dll
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertificateIntegration\obj\Debug\CertificateIntegration.pdb

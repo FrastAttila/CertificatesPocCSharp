@@ -1,0 +1,23 @@
+﻿2017-12-14T23:17:44.1722964+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-14T23:17:44.3136724+02:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-14T23:17:44.3156774+02:00;VSTestExecutionThread;Info;SpecRun: running tests in c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll
+2017-12-14T23:17:44.3166803+02:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-14T23:17:58.4185829+02:00;Thread#12;Info;Discovering target: Default
+2017-12-14T23:17:58.4195857+02:00;Thread#12;Info;Discovering tests from assembly: c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll
+Appdomain Disposed
+Test Suite Dump
+#0: CertPoc.Specs/Default - 
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 0
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0

@@ -1,0 +1,16 @@
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.pdb
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\obj\Debug\CertPoc.Specs.csprojResolveAssemblyReference.cache
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\obj\Debug\CertPoc.Specs.dll
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\obj\Debug\CertPoc.Specs.pdb
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\Default.srprofile
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll.config
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\Newtonsoft.Json.dll
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\SpecRun.SpecFlowPlugin.dll
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\TechTalk.SpecRun.Common.dll
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\TechTalk.SpecRun.dll
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\Newtonsoft.Json.xml
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertificateIntegration.dll
+c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertificateIntegration.pdb

@@ -1,0 +1,76 @@
+﻿2017-12-14T22:27:08.4323925+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-14T22:27:08.5256427+02:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-14T22:27:08.5261441+02:00;VSTestExecutionThread;Info;SpecRun: running tests in c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll
+2017-12-14T22:27:08.5266458+02:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-14T22:27:20.6535644+02:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-14T22:27:20.6535644+02:00;VSTestExecutionThread;Info;Discovering tests from assembly: c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll
+2017-12-14T22:27:22.5080080+02:00;VSTestExecutionThread;Info;Log file: file:///c:\users\joseph\documents\visual%20studio%202015\Projects\Poc\CertPoc.Specs\TestResults\CertPoc.Specs_Default_2017-12-14T222708.log
+2017-12-14T22:27:22.5090112+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-14T23:10:19.4398012+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-14T23:10:19.4523339+02:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-14T23:10:19.4528350+02:00;VSTestExecutionThread;Info;SpecRun: running tests in c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll
+2017-12-14T23:10:19.4528350+02:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-14T23:10:30.4562606+02:00;Thread#18;Info;Discovering target: Default
+2017-12-14T23:10:30.4567340+02:00;Thread#18;Info;Discovering tests from assembly: c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll
+Appdomain Disposed
+Test Suite Dump
+#0: CertPoc.Specs/Default - 
+#1: Default - 
+#2: CertPoc.Specs - 
+#3: Poc - 
+#4: Retrieve all certificates for the current user - TestAssembly:CertPoc.Specs/Feature:Poc/Scenario:Retrieve+all+certificates+for+the+current+user
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for CertPoc.Specs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Joseph\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.6.3\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given I selected the current user certificate suite from the machine I am on
+Thread#0:T:done: PocBindings.GivenISelectedTheCurrentUserCertificateSuiteFromTheMachineIAmOn() (0.0s)
+Thread#0:B:When I retrieve all certificates
+Thread#0:T:done: PocBindings.WhenIRetrieveAllCertificates() (0.0s)
+Thread#0:B:Then I should be able bla bla
+Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+Thread#0:T:        [Then(@"I should be able bla bla")]
+Thread#0:T:public void ThenIShouldBeAbleBlaBla()
+Thread#0:T:{
+Thread#0:T:    ScenarioContext.Current.Pending();
+Thread#0:T:}
+Thread#0:T:Pending: No matching step definition found for one or more steps.
+Thread#0:T:using System;
+Thread#0:T:using TechTalk.SpecFlow;
+Thread#0:T:namespace MyNamespace
+Thread#0:T:{
+Thread#0:T:    [Binding]
+Thread#0:T:    public class StepDefinitions
+Thread#0:T:    {
+Thread#0:T:        [Then(@"I should be able bla bla")]
+Thread#0:T:public void ThenIShouldBeAbleBlaBla()
+Thread#0:T:{
+Thread#0:T:    ScenarioContext.Current.Pending();
+Thread#0:T:}
+Thread#0:T:    }
+Thread#0:T:}
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #4/0 is finished on thread #0 as Pending within 0.1684185 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1
+Succeeded: 0
+Ignored: 0
+Pending: 1
+Skipped: 0
+Failed: 0

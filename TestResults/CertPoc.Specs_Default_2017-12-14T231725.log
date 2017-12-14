@@ -1,0 +1,47 @@
+﻿2017-12-14T22:27:08.4323925+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-14T22:27:08.5256427+02:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-14T22:27:08.5261441+02:00;VSTestExecutionThread;Info;SpecRun: running tests in c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll
+2017-12-14T22:27:08.5266458+02:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-14T22:27:20.6535644+02:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-14T22:27:20.6535644+02:00;VSTestExecutionThread;Info;Discovering tests from assembly: c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll
+2017-12-14T22:27:22.5080080+02:00;VSTestExecutionThread;Info;Log file: file:///c:\users\joseph\documents\visual%20studio%202015\Projects\Poc\CertPoc.Specs\TestResults\CertPoc.Specs_Default_2017-12-14T222708.log
+2017-12-14T22:27:22.5090112+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-14T23:10:19.4398012+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-14T23:10:19.4523339+02:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-14T23:10:19.4528350+02:00;VSTestExecutionThread;Info;SpecRun: running tests in c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll
+2017-12-14T23:10:19.4528350+02:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-14T23:10:30.4562606+02:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-14T23:10:30.4567340+02:00;VSTestExecutionThread;Info;Discovering tests from assembly: c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll
+2017-12-14T23:10:31.5099482+02:00;VSTestExecutionThread;Info;Log file: file:///c:\users\joseph\documents\visual%20studio%202015\Projects\Poc\CertPoc.Specs\TestResults\CertPoc.Specs_Default_2017-12-14T231019.log
+2017-12-14T23:10:31.5104496+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-14T23:13:24.4562957+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-14T23:13:24.4688735+02:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-14T23:13:24.4693312+02:00;VSTestExecutionThread;Info;SpecRun: running tests in c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll
+2017-12-14T23:13:24.4698323+02:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-14T23:13:36.4731255+02:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-14T23:13:36.4786404+02:00;VSTestExecutionThread;Info;Discovering tests from assembly: c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll
+2017-12-14T23:13:37.3870556+02:00;VSTestExecutionThread;Info;Log file: file:///c:\users\joseph\documents\visual%20studio%202015\Projects\Poc\CertPoc.Specs\TestResults\CertPoc.Specs_Default_2017-12-14T231324.log
+2017-12-14T23:13:37.3880629+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-14T23:17:25.2064457+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-14T23:17:25.2194795+02:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-14T23:17:25.2204827+02:00;VSTestExecutionThread;Info;SpecRun: running tests in c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll
+2017-12-14T23:17:25.2204827+02:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-14T23:17:35.2252747+02:00;Thread#17;Info;Discovering target: Default
+2017-12-14T23:17:35.2257761+02:00;Thread#17;Info;Discovering tests from assembly: c:\users\joseph\documents\visual studio 2015\Projects\Poc\CertPoc.Specs\CertPoc.Specs\bin\Debug\CertPoc.Specs.dll
+Appdomain Disposed
+Test Suite Dump
+#0: CertPoc.Specs/Default - 
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 0
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
